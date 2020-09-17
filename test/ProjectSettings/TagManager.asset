@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - puzzleobject
+  - puzzleobjectbluesquare
+  - puzzleobjectredsquare
+  - puzzleobjecredcercial
+  - puzzleobjecbluecercial
+  - spike
+  - enviroment
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - background
+  - enemmy
+  - enviroment
+  - puzzleblock
+  - puzzlesocet
+  - puzzleblockbluesquare
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 1032555153
+    locked: 1
+  - name: plant back
+    uniqueID: 729016735
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: platforms
+    uniqueID: 3905016541
+    locked: 0
+  - name: plant front
+    uniqueID: 4000178279
+    locked: 0
+  - name: enemy
+    uniqueID: 3548974915
+    locked: 0
+  - name: puzzlesocket
+    uniqueID: 1039393695
+    locked: 0
+  - name: player charector
+    uniqueID: 1962224925
+    locked: 0
